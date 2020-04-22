@@ -53,8 +53,10 @@ with open(input_name + '.csv') as csvfile:
             row = row + [start_date, end_date]
             new_csv[index] = row
 
+    # start json building
     new_json = '['
 
+    # bunch of terrible bs that is probably way easier to do, but just wanted a quick hack job
     for index, row in enumerate(new_csv):
         if index != 0:
             new_json += '{ "'
@@ -72,8 +74,11 @@ with open(input_name + '.csv') as csvfile:
 
     new_json += ']'
 
+    # move to json to dump (is this necessary?)
     data = json.loads(new_json)
 
+
+    # write files based on input file name
     with open(export_name + '.json', 'w', encoding='utf-8') as json_write:
         json.dump(data, json_write, ensure_ascii=False, indent=4)
 
