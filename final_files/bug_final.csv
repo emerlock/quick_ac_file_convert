@@ -1,0 +1,81 @@
+Name,Price,Location,Time,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Start Date,End Date
+Common butterfly,160,Flying,4 AM - 7 PM,?,?,?,?,?,?,-,-,?,?,?,?,Sep,Jun
+Yellow butterfly,160,Flying,4 AM - 7 PM,-,-,?,?,?,?,-,-,?,?,-,-,Sep,Oct
+Tiger butterfly,240,Flying,4 AM - 7 PM,-,-,?,?,?,?,?,?,?,-,-,-,Mar,Sep
+Peacock butterfly,2500,Flying by Hybrid Flowers,4 AM - 7 PM,-,-,?,?,?,?,-,-,-,-,-,-,Mar,Jun
+Common bluebottle,300,Flying,4 AM - 7 PM,-,-,-,?,?,?,?,?,-,-,-,-,Apr,Aug
+Paper kite butterfly,1000,Flying,8 AM - 7 PM,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Great purple emperor,3000,Flying,4 AM - 7 PM,-,-,-,-,?,?,?,?,-,-,-,-,May,Aug
+Monarch butterfly,140,Flying,4 AM - 5 PM,-,-,-,-,-,-,-,-,?,?,?,-,Sep,Nov
+Emperor butterfly,4000,Flying,5 PM - 8 AM,?,?,?,-,-,?,?,?,?,-,-,?,Dec,Sep
+Agrias butterfly,3000,Flying,8 AM - 5 PM,-,-,-,?,?,?,?,?,?,-,-,-,Apr,Sep
+Rajah Brooke's birdwing,2500,Flying,8 AM - 5 PM,?,?,-,?,?,?,?,?,?,-,-,?,Dec,Sep
+Queen Alexandra's birdwing,4000,Flying,8 AM - 4 PM,-,-,-,-,?,?,?,?,?,-,-,-,May,Sep
+Moth,130,Flying by Light,7 PM - 4 AM,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Atlas moth,3000,On Trees,7 PM - 4 AM,-,-,-,?,?,?,?,?,?,-,-,-,Apr,Sep
+Madagascan sunset moth,2500,Flying,8 AM - 4 PM,-,-,-,?,?,?,?,?,?,-,-,-,Apr,Sep
+Long locust,200,On the Ground,8 AM - 7 PM,-,-,-,?,?,?,?,?,?,?,?,-,Apr,Nov
+Migratory locust,600,On the Ground,8 AM - 7 PM,-,-,-,-,-,-,-,?,?,?,?,-,Aug,Nov
+Rice grasshopper,160,On the Ground,8 AM - 7 PM,-,-,-,-,-,-,-,?,?,?,?,-,Aug,Nov
+Grasshopper,160,On the Ground,8 AM - 5 PM,-,-,-,-,-,-,?,?,?,-,-,-,Jul,Sep
+Cricket,130,On the Ground,5 PM - 8 AM,-,-,-,-,-,-,-,-,?,?,?,-,Sep,Nov
+Bell cricket,430,On the Ground,5 PM - 8 AM,-,-,-,-,-,-,-,-,?,?,-,-,Sep,Oct
+Mantis,430,On Flowers,8 AM - 5 PM,-,-,?,?,?,?,?,?,?,?,?,-,Mar,Nov
+Orchid mantis,2400,On Flowers (White),8 AM - 5 PM,-,-,?,?,?,?,?,?,?,?,?,-,Mar,Nov
+Honeybee,200,Flying,8 AM - 5 PM,-,-,?,?,?,?,?,-,-,-,-,-,Mar,Jul
+Wasp,2500,Shaking Trees,All day,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Brown cicada,250,On Trees,8 AM - 5 PM,-,-,-,-,-,-,?,?,-,-,-,-,Jul,Aug
+Robust cicada,300,On Trees,8 AM - 5 PM,-,-,-,-,-,-,?,?,-,-,-,-,Jul,Aug
+Giant cicada,500,On Trees,8 AM - 5 PM,-,-,-,-,-,-,?,?,-,-,-,-,Jul,Aug
+Walker cicada,400,On Trees,8 AM - 5 PM,-,-,-,-,-,-,-,?,?,-,-,-,Aug,Sep
+Evening cicada,550,On Trees,4 AM - 8 AM & 4 PM - 7 PM,-,-,-,-,-,-,?,?,-,-,-,-,Jul,Aug
+Cicada shell,10,On Trees,All day,-,-,-,-,-,-,?,?,-,-,-,-,Jul,Aug
+Red dragonfly,180,Flying,8 AM - 7 PM,-,-,-,-,-,-,-,-,?,?,-,-,Sep,Oct
+Darner dragonfly,230,Flying,8 AM - 5 PM,-,-,-,?,?,?,?,?,?,?,-,-,Apr,Oct
+Banded dragonfly,4500,Flying,8 AM - 5 PM,-,-,-,-,?,?,?,?,?,?,-,-,May,Oct
+Damselfly,500,Flying,All day,?,?,-,-,-,-,-,-,-,-,?,?,Nov,Feb
+Firefly,300,Flying,7 PM - 4 AM,-,-,-,-,-,?,-,-,-,-,-,-,Jun,Jun
+Mole cricket,500,Underground,All day,?,?,?,?,?,-,-,-,-,-,?,?,Nov,May
+Pondskater,130,On Ponds and Rivers,8 AM - 7 PM,-,-,-,-,?,?,?,?,?,-,-,-,May,Sep
+Diving beetle,800,On Ponds and Rivers,8 AM - 7 PM,-,-,-,-,?,?,?,?,?,-,-,-,May,Sep
+Giant water bug,2000,On Ponds and Rivers,7 PM - 8 AM,-,-,-,?,?,?,?,?,?,-,-,-,Apr,Sep
+Stinkbug,120,On Flowers,All day,-,-,?,?,?,?,?,?,?,?,-,-,Mar,Oct
+Man-faced stink bug,1000,On Flowers,7 PM - 8 AM,-,-,?,?,?,?,?,?,?,?,-,-,Mar,Oct
+Ladybug,200,On Flowers,8 AM - 5 PM,-,-,?,?,?,?,-,-,-,?,-,-,Oct,Oct
+Tiger beetle,1500,On the Ground,All day,-,?,?,?,?,?,?,?,?,?,-,-,Feb,Oct
+Jewel beetle,2400,On Tree Stumps,All day,-,-,-,?,?,?,?,?,-,-,-,-,Apr,Aug
+Violin beetle,450,On Tree Stumps,All day,-,-,-,-,?,?,-,-,?,?,?,-,Sep,Nov
+Citrus long-horned beetle,350,On Tree Stumps,All day,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Rosalia batesi beetle,3000,On Tree Stumps,All day,-,-,-,-,?,?,?,?,?,-,-,-,May,Sep
+Blue weevil beetle,800,On Trees (Coconut?),All day,-,-,-,-,-,-,?,?,-,-,-,-,Jul,Aug
+Dung beetle,3000,On the Ground (rolling snowballs),All day,?,?,-,-,-,-,-,-,-,-,-,?,Dec,Feb
+Earth-boring dung beetle,300,On the Ground,All day,-,-,-,-,-,-,?,?,?,-,-,-,Jul,Sep
+Scarab beetle,10000,On Trees,11 PM - 8 AM,-,-,-,-,-,-,?,?,-,-,-,-,Jul,Aug
+Drone beetle,200,On Trees,All day,-,-,-,-,-,?,?,?,-,-,-,-,Jun,Aug
+Goliath beetle,8000,On Trees (Coconut),5 PM - 8 AM,-,-,-,-,-,?,?,?,?,-,-,-,Jun,Sep
+Saw stag,2000,On Trees,All day,-,-,-,-,-,-,?,?,-,-,-,-,Jul,Aug
+Miyama stag,1000,On Trees,All day,-,-,-,-,-,-,?,?,-,-,-,-,Jul,Aug
+Giant stag,10000,On Trees,11 PM - 8 AM,-,-,-,-,-,-,?,?,-,-,-,-,Jul,Aug
+Rainbow stag,6000,On Trees,7 PM - 8 AM,-,-,-,-,-,?,?,?,?,-,-,-,Jun,Sep
+Cyclommatus stag,8000,On Trees (Coconut),5 PM - 8 AM,-,-,-,-,-,-,?,?,-,-,-,-,Jul,Aug
+Golden stag,12000,On Trees (Coconut),5 PM - 8 AM,-,-,-,-,-,-,?,?,-,-,-,-,Jul,Aug
+Giraffe stag,12000,On Trees (Coconut?),5 PM - 8 AM,-,-,-,-,-,-,?,?,-,-,-,-,Jul,Aug
+Horned dynastid,1350,On Trees,5 PM - 8 AM,-,-,-,-,-,-,?,?,-,-,-,-,Jul,Aug
+Horned atlas,8000,On Trees (Coconut),5 PM - 8 AM,-,-,-,-,-,-,?,?,-,-,-,-,Jul,Aug
+Horned elephant,8000,On Trees (Coconut),5 PM - 8 AM,-,-,-,-,-,-,?,?,-,-,-,-,Jul,Aug
+Horned hercules,12000,On Trees (Coconut),5 PM - 8 AM,-,-,-,-,-,-,?,?,-,-,-,-,Jul,Aug
+Walking stick,600,On Trees,4 AM - 8 AM & 5 PM - 7 PM,-,-,-,-,-,-,?,?,?,?,?,-,Jul,Nov
+Walking leaf,600,Under Trees Disguised as Leafs,All day,-,-,-,-,-,-,?,?,?,-,-,-,Jul,Sep
+Bagworm,600,Shaking Trees,All day,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Ant,80,On rotten food,All day,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Hermit crab,1000,Beach disguised as Shells,7 PM - 8 AM,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Wharf roach,200,On Beach Rocks,All day,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Fly,60,On Trash Items,All day,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Mosquito,130,Flying,5 PM - 4 AM,-,-,-,-,-,?,?,?,?,-,-,-,Jun,Sep
+Flea,70,Villager's Heads,All day,-,-,-,?,?,?,?,?,?,?,?,-,Apr,Nov
+Snail,250,On Rocks (Rain),All day,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Pill bug,250,Hitting Rocks,11 PM - 4 PM,?,?,?,?,?,?,-,-,?,?,?,?,Sep,Jun
+Centipede,300,Hitting Rocks,4 PM - 11 PM,?,?,?,?,?,?,-,-,?,?,?,?,Sep,Jun
+Spider,600,Shaking Trees,7 PM - 8 AM,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Tarantula,8000,On the Ground,7 PM - 4 AM,?,?,?,?,-,-,-,-,-,-,?,?,Nov,Apr
+Scorpion,8000,On the Ground,7 PM - 4 AM,-,-,-,-,?,?,?,?,?,?,-,-,May,Oct

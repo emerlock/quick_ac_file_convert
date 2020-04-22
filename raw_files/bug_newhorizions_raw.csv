@@ -1,0 +1,81 @@
+Name,Price,Location,Time,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+Common butterfly,160,Flying,4 AM - 7 PM,?,?,?,?,?,?,-,-,?,?,?,?
+Yellow butterfly,160,Flying,4 AM - 7 PM,-,-,?,?,?,?,-,-,?,?,-,-
+Tiger butterfly,240,Flying,4 AM - 7 PM,-,-,?,?,?,?,?,?,?,-,-,-
+Peacock butterfly,2500,Flying by Hybrid Flowers,4 AM - 7 PM,-,-,?,?,?,?,-,-,-,-,-,-
+Common bluebottle,300,Flying,4 AM - 7 PM,-,-,-,?,?,?,?,?,-,-,-,-
+Paper kite butterfly,1000,Flying,8 AM - 7 PM,?,?,?,?,?,?,?,?,?,?,?,?
+Great purple emperor,3000,Flying,4 AM - 7 PM,-,-,-,-,?,?,?,?,-,-,-,-
+Monarch butterfly,140,Flying,4 AM - 5 PM,-,-,-,-,-,-,-,-,?,?,?,-
+Emperor butterfly,4000,Flying,5 PM - 8 AM,?,?,?,-,-,?,?,?,?,-,-,?
+Agrias butterfly,3000,Flying,8 AM - 5 PM,-,-,-,?,?,?,?,?,?,-,-,-
+Rajah Brooke's birdwing,2500,Flying,8 AM - 5 PM,?,?,-,?,?,?,?,?,?,-,-,?
+Queen Alexandra's birdwing,4000,Flying,8 AM - 4 PM,-,-,-,-,?,?,?,?,?,-,-,-
+Moth,130,Flying by Light,7 PM - 4 AM,?,?,?,?,?,?,?,?,?,?,?,?
+Atlas moth,3000,On Trees,7 PM - 4 AM,-,-,-,?,?,?,?,?,?,-,-,-
+Madagascan sunset moth,2500,Flying,8 AM - 4 PM,-,-,-,?,?,?,?,?,?,-,-,-
+Long locust,200,On the Ground,8 AM - 7 PM,-,-,-,?,?,?,?,?,?,?,?,-
+Migratory locust,600,On the Ground,8 AM - 7 PM,-,-,-,-,-,-,-,?,?,?,?,-
+Rice grasshopper,160,On the Ground,8 AM - 7 PM,-,-,-,-,-,-,-,?,?,?,?,-
+Grasshopper,160,On the Ground,8 AM - 5 PM,-,-,-,-,-,-,?,?,?,-,-,-
+Cricket,130,On the Ground,5 PM - 8 AM,-,-,-,-,-,-,-,-,?,?,?,-
+Bell cricket,430,On the Ground,5 PM - 8 AM,-,-,-,-,-,-,-,-,?,?,-,-
+Mantis,430,On Flowers,8 AM - 5 PM,-,-,?,?,?,?,?,?,?,?,?,-
+Orchid mantis,2400,On Flowers (White),8 AM - 5 PM,-,-,?,?,?,?,?,?,?,?,?,-
+Honeybee,200,Flying,8 AM - 5 PM,-,-,?,?,?,?,?,-,-,-,-,-
+Wasp,2500,Shaking Trees,All day,?,?,?,?,?,?,?,?,?,?,?,?
+Brown cicada,250,On Trees,8 AM - 5 PM,-,-,-,-,-,-,?,?,-,-,-,-
+Robust cicada,300,On Trees,8 AM - 5 PM,-,-,-,-,-,-,?,?,-,-,-,-
+Giant cicada,500,On Trees,8 AM - 5 PM,-,-,-,-,-,-,?,?,-,-,-,-
+Walker cicada,400,On Trees,8 AM - 5 PM,-,-,-,-,-,-,-,?,?,-,-,-
+Evening cicada,550,On Trees,4 AM - 8 AM & 4 PM - 7 PM,-,-,-,-,-,-,?,?,-,-,-,-
+Cicada shell,10,On Trees,All day,-,-,-,-,-,-,?,?,-,-,-,-
+Red dragonfly,180,Flying,8 AM - 7 PM,-,-,-,-,-,-,-,-,?,?,-,-
+Darner dragonfly,230,Flying,8 AM - 5 PM,-,-,-,?,?,?,?,?,?,?,-,-
+Banded dragonfly,4500,Flying,8 AM - 5 PM,-,-,-,-,?,?,?,?,?,?,-,-
+Damselfly,500,Flying,All day,?,?,-,-,-,-,-,-,-,-,?,?
+Firefly,300,Flying,7 PM - 4 AM,-,-,-,-,-,?,-,-,-,-,-,-
+Mole cricket,500,Underground,All day,?,?,?,?,?,-,-,-,-,-,?,?
+Pondskater,130,On Ponds and Rivers,8 AM - 7 PM,-,-,-,-,?,?,?,?,?,-,-,-
+Diving beetle,800,On Ponds and Rivers,8 AM - 7 PM,-,-,-,-,?,?,?,?,?,-,-,-
+Giant water bug,2000,On Ponds and Rivers,7 PM - 8 AM,-,-,-,?,?,?,?,?,?,-,-,-
+Stinkbug,120,On Flowers,All day,-,-,?,?,?,?,?,?,?,?,-,-
+Man-faced stink bug,1000,On Flowers,7 PM - 8 AM,-,-,?,?,?,?,?,?,?,?,-,-
+Ladybug,200,On Flowers,8 AM - 5 PM,-,-,?,?,?,?,-,-,-,?,-,-
+Tiger beetle,1500,On the Ground,All day,-,?,?,?,?,?,?,?,?,?,-,-
+Jewel beetle,2400,On Tree Stumps,All day,-,-,-,?,?,?,?,?,-,-,-,-
+Violin beetle,450,On Tree Stumps,All day,-,-,-,-,?,?,-,-,?,?,?,-
+Citrus long-horned beetle,350,On Tree Stumps,All day,?,?,?,?,?,?,?,?,?,?,?,?
+Rosalia batesi beetle,3000,On Tree Stumps,All day,-,-,-,-,?,?,?,?,?,-,-,-
+Blue weevil beetle,800,On Trees (Coconut?),All day,-,-,-,-,-,-,?,?,-,-,-,-
+Dung beetle,3000,On the Ground (rolling snowballs),All day,?,?,-,-,-,-,-,-,-,-,-,?
+Earth-boring dung beetle,300,On the Ground,All day,-,-,-,-,-,-,?,?,?,-,-,-
+Scarab beetle,10000,On Trees,11 PM - 8 AM,-,-,-,-,-,-,?,?,-,-,-,-
+Drone beetle,200,On Trees,All day,-,-,-,-,-,?,?,?,-,-,-,-
+Goliath beetle,8000,On Trees (Coconut),5 PM - 8 AM,-,-,-,-,-,?,?,?,?,-,-,-
+Saw stag,2000,On Trees,All day,-,-,-,-,-,-,?,?,-,-,-,-
+Miyama stag,1000,On Trees,All day,-,-,-,-,-,-,?,?,-,-,-,-
+Giant stag,10000,On Trees,11 PM - 8 AM,-,-,-,-,-,-,?,?,-,-,-,-
+Rainbow stag,6000,On Trees,7 PM - 8 AM,-,-,-,-,-,?,?,?,?,-,-,-
+Cyclommatus stag,8000,On Trees (Coconut),5 PM - 8 AM,-,-,-,-,-,-,?,?,-,-,-,-
+Golden stag,12000,On Trees (Coconut),5 PM - 8 AM,-,-,-,-,-,-,?,?,-,-,-,-
+Giraffe stag,12000,On Trees (Coconut?),5 PM - 8 AM,-,-,-,-,-,-,?,?,-,-,-,-
+Horned dynastid,1350,On Trees,5 PM - 8 AM,-,-,-,-,-,-,?,?,-,-,-,-
+Horned atlas,8000,On Trees (Coconut),5 PM - 8 AM,-,-,-,-,-,-,?,?,-,-,-,-
+Horned elephant,8000,On Trees (Coconut),5 PM - 8 AM,-,-,-,-,-,-,?,?,-,-,-,-
+Horned hercules,12000,On Trees (Coconut),5 PM - 8 AM,-,-,-,-,-,-,?,?,-,-,-,-
+Walking stick,600,On Trees,4 AM - 8 AM & 5 PM - 7 PM,-,-,-,-,-,-,?,?,?,?,?,-
+Walking leaf,600,Under Trees Disguised as Leafs,All day,-,-,-,-,-,-,?,?,?,-,-,-
+Bagworm,600,Shaking Trees,All day,?,?,?,?,?,?,?,?,?,?,?,?
+Ant,80,On rotten food,All day,?,?,?,?,?,?,?,?,?,?,?,?
+Hermit crab,1000,Beach disguised as Shells,7 PM - 8 AM,?,?,?,?,?,?,?,?,?,?,?,?
+Wharf roach,200,On Beach Rocks,All day,?,?,?,?,?,?,?,?,?,?,?,?
+Fly,60,On Trash Items,All day,?,?,?,?,?,?,?,?,?,?,?,?
+Mosquito,130,Flying,5 PM - 4 AM,-,-,-,-,-,?,?,?,?,-,-,-
+Flea,70,Villager's Heads,All day,-,-,-,?,?,?,?,?,?,?,?,-
+Snail,250,On Rocks (Rain),All day,?,?,?,?,?,?,?,?,?,?,?,?
+Pill bug,250,Hitting Rocks,11 PM - 4 PM,?,?,?,?,?,?,-,-,?,?,?,?
+Centipede,300,Hitting Rocks,4 PM - 11 PM,?,?,?,?,?,?,-,-,?,?,?,?
+Spider,600,Shaking Trees,7 PM - 8 AM,?,?,?,?,?,?,?,?,?,?,?,?
+Tarantula,8000,On the Ground,7 PM - 4 AM,?,?,?,?,-,-,-,-,-,-,?,?
+Scorpion,8000,On the Ground,7 PM - 4 AM,-,-,-,-,?,?,?,?,?,?,-,-

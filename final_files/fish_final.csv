@@ -1,0 +1,81 @@
+Name,Price,Location,Shadow size,Time,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Start Date,End Date
+Bitterling,900,River,1,All day,?,?,?,-,-,-,-,-,-,-,?,?,Nov,Mar
+Pale chub,200,River,1,9 AM - 4 PM,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Crucian carp,160,River,2,All day,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Dace,240,River,3,4 PM - 9 AM,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Carp,300,Pond,4,All day,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Koi,4000,Pond,4,4 PM - 9 AM,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Goldfish,1300,Pond,1,All day,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Pop-eyed goldfish,1300,Pond,1,9 AM - 4 PM,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Ranchu goldfish,4500,Pond,2,9 AM - 4 PM,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Killifish,300,Pond,1,All day,-,-,-,?,?,?,?,?,-,-,-,-,Apr,Aug
+Crawfish,200,Pond,2,All day,-,-,-,?,?,?,?,?,?,-,-,-,Apr,Sep
+Soft-shelled turtle,3750,River,4,4 PM - 9 AM,-,-,-,-,-,-,-,?,?,-,-,-,Aug,Sep
+Snapping Turtle,5000,River,4,9 PM - 4 AM,-,-,-,?,?,?,?,?,?,?,-,-,Apr,Oct
+Tadpole,100,Pond,1,All day,-,-,?,?,?,?,?,-,-,-,-,-,Mar,Jul
+Frog,120,Pond,2,All day,-,-,-,-,?,?,?,?,-,-,-,-,May,Aug
+Freshwater goby,400,River,2,4 PM - 9 AM,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Loach,400,River,2,All day,-,-,?,?,?,-,-,-,-,-,-,-,Mar,May
+Catfish,800,Pond,4,4 PM - 9 AM,-,-,-,-,?,?,?,?,?,?,-,-,May,Oct
+Giant snakehead,5500,Pond,4,9 AM - 4 PM,-,-,-,-,-,?,?,?,-,-,-,-,Jun,Aug
+Bluegill,180,River,2,9 AM - 4 PM,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Yellow perch,300,River,3,All day,?,?,?,-,-,-,-,-,-,?,?,?,Oct,Mar
+Black bass,400,River,4,All day,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Tilapia,800,River,3,All day,-,-,-,-,-,?,?,?,?,?,-,-,Jun,Oct
+Pike,1800,River,5,All day,-,-,-,-,-,-,-,-,?,?,?,?,Sep,Dec
+Pond smelt,500,River,2,All day,?,?,-,-,-,-,-,-,-,-,-,?,Dec,Feb
+Sweetfish,900,River,3,All day,-,-,-,-,-,-,?,?,?,-,-,-,Jul,Sep
+Cherry salmon,800,River (Clifftop),3,4 PM - 9 AM,-,-,?,?,?,?,-,-,?,?,?,-,Sep,Nov
+Char,3800,River (Clifftop) Pond,3,4 PM - 9 AM,-,-,?,?,?,?,-,-,?,?,?,-,Sep,Nov
+Golden trout,15000,River (Clifftop),3,4 PM - 9 AM,-,-,?,?,?,-,-,-,?,?,?,-,Sep,Nov
+Stringfish,15000,River (Clifftop),5,4 PM - 9 AM,?,?,?,-,-,-,-,-,-,-,-,?,Dec,Mar
+Salmon,700,River (Mouth),4,All day,-,-,-,-,-,-,-,-,?,-,-,-,Sep,Sep
+King salmon,1800,River (Mouth),6,All day,-,-,-,-,-,-,-,-,?,-,-,-,Sep,Sep
+Mitten crab,2000,River,2,4 PM - 9 AM,-,-,-,-,-,-,-,-,?,?,?,-,Sep,Nov
+Guppy,1300,River,1,9 AM - 4 PM,-,-,-,?,?,?,?,?,?,?,?,-,Apr,Nov
+Nibble fish,1500,River,1,9 AM - 4 PM,-,-,-,-,?,?,?,?,?,-,-,-,May,Sep
+Angelfish,3000,River,2,4 PM - 9 AM,-,-,-,-,?,?,?,?,?,?,-,-,May,Oct
+Betta,2500,River,2,9 AM - 4 PM,-,-,-,-,?,?,?,?,?,?,-,-,May,Oct
+Neon tetra,500,River,1,9 AM - 4 PM,-,-,-,?,?,?,?,?,?,?,?,-,Apr,Nov
+Rainbowfish,800,River,1,9 AM - 4 PM,-,-,-,-,?,?,?,?,?,?,-,-,May,Oct
+Piranha,2500,River,2,9 AM - 4 PM & 9 PM - 4 AM,-,-,-,-,-,?,?,?,?,-,-,-,Jun,Sep
+Arowana,10000,River,4,4 PM - 9 AM,-,-,-,-,-,?,?,?,?,-,-,-,Jun,Sep
+Dorado,15000,River,5,4 AM - 9 PM,-,-,-,-,-,?,?,?,?,-,-,-,Jun,Sep
+Gar,6000,Pond,5,4 PM - 9 AM,-,-,-,-,-,?,?,?,?,-,-,-,Jun,Sep
+Arapaima,10000,River,6,4 PM - 9 AM,-,-,-,-,-,?,?,?,?,-,-,-,Jun,Sep
+Saddled bichir,4000,River,4,9 PM - 4 AM,-,-,-,-,-,?,?,?,?,-,-,-,Jun,Sep
+Sturgeon,10000,River (Mouth),6,All day,?,?,?,-,-,-,-,-,?,?,?,?,Sep,Mar
+Sea butterfly,1000,Sea,1,All day,?,?,?,-,-,-,-,-,-,-,-,?,Dec,Mar
+Sea horse,1100,Sea,1,All day,-,-,-,?,?,?,?,?,?,?,?,-,Apr,Nov
+Clown fish,650,Sea,1,All day,-,-,-,?,?,?,?,?,?,-,-,-,Apr,Sep
+Surgeonfish,1000,Sea,2,All day,-,-,-,?,?,?,?,?,?,-,-,-,Apr,Sep
+Butterfly fish,1000,Sea,2,All day,-,-,-,?,?,?,?,?,?,-,-,-,Apr,Sep
+Napoleonfish,10000,Sea,6,4 AM - 9 PM,-,-,-,-,-,-,?,?,-,-,-,-,Jul,Aug
+Zebra turkeyfish,500,Sea,3,All day,-,-,-,?,?,?,?,?,?,?,?,-,Apr,Nov
+Blowfish,5000,Sea,3,9 PM - 4 AM,?,?,-,-,-,-,-,-,-,-,?,?,Nov,Feb
+Puffer fish,250,Sea,3,All day,-,-,-,-,-,-,?,?,?,-,-,-,Jul,Sep
+Anchovy,200,Sea,2,4 AM - 9 PM,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Horse mackerel,150,Sea,2,All day,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Barred knifejaw,5000,Sea,3,All day,-,-,?,?,?,?,?,?,?,?,?,-,Mar,Nov
+Sea bass,400,Sea,5,All day,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Red snapper,3000,Sea,4,All day,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Dab,300,Sea,3,All day,?,?,?,?,-,-,-,-,-,?,?,?,Oct,Apr
+Olive flounder,800,Sea,5,All day,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Squid,500,Sea,3,All day,?,?,?,?,?,?,?,?,-,-,-,?,Dec,Aug
+Moray eel,2000,Sea,Narrow,All day,-,-,-,-,-,-,-,?,?,?,-,-,Aug,Oct
+Ribbon eel,600,Sea,Narrow,All day,-,-,-,-,-,?,?,?,?,?,-,-,Jun,Oct
+Tuna,7000,Pier,6,All day,?,?,?,?,-,-,-,-,-,-,?,?,Nov,Apr
+Blue marlin,10000,Pier,6,All day,?,?,?,?,-,-,?,?,?,-,?,?,Nov,Sep
+Giant trevally,4500,Pier,5,All day,-,-,-,-,?,?,?,?,?,?,-,-,May,Oct
+Mahi-mahi,6000,Pier,5,All day,-,-,-,-,?,?,?,?,?,?,-,-,May,Oct
+Ocean sunfish,4000,Sea,6 (Fin),4 AM - 9 PM,-,-,-,-,-,-,?,?,?,-,-,-,Jul,Sep
+Ray,3000,Sea,5,4 AM - 9 PM,-,-,-,-,-,-,-,?,?,?,?,-,Aug,Nov
+Saw shark,12000,Sea,6 (Fin),4 PM - 9 AM,-,-,-,-,-,?,?,?,?,-,-,-,Jun,Sep
+Hammerhead shark,8000,Sea,6 (Fin),4 PM - 9 AM,-,-,-,-,-,?,?,?,?,-,-,-,Jun,Sep
+Great white shark,15000,Sea,6 (Fin),4 PM - 9 AM,-,-,-,-,-,?,?,?,?,-,-,-,Jun,Sep
+Whale shark,13000,Sea,6 (Fin),All day,-,-,-,-,-,?,?,?,?,-,-,-,Jun,Sep
+Suckerfish,1500,Sea,4 (Fin),All day,-,-,-,-,-,?,?,?,?,-,-,-,Jun,Sep
+Football fish,2500,Sea,4,4 PM - 9 AM,?,?,?,-,-,-,-,-,-,-,?,?,Nov,Mar
+Oarfish,9000,Sea,6,All day,?,?,?,?,?,-,-,-,-,-,-,?,Dec,May
+Barreleye,15000,Sea,2,9 PM - 4 AM,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec
+Coelacanth,15000,Sea (while raining),6,All day,?,?,?,?,?,?,?,?,?,?,?,?,Jan,Dec

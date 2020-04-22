@@ -1,0 +1,11 @@
+# ignore pycharm developed folders
+.idea
+venv
+
+# ignore test files
+*.csv
+*.json
+
+# however allow raw and final files
+!final_files/*
+!raw_files/*
