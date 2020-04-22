@@ -25,6 +25,12 @@ with open(input_name + '.csv') as csvfile:
             start_date = ""
             end_date = ""
             all_months = True
+
+            # check to see if a preceding column is false (-) and if the current column is true (?)
+            # if above check is true, this is the start date.
+            # in AC:NH if a fish or bug is in season, it has a clear range, no spottiness in schedule
+            # so likewise, check to see if current column is true (?) and next is false (-)
+            # to see if its the end of the date range for the critter
             while i < len(row):
                 if row[i - 1] == '-' and row[i] == '?':
                     start_date = new_csv[0][i]
@@ -34,9 +40,12 @@ with open(input_name + '.csv') as csvfile:
                         end_date = new_csv[0][i]
                         all_months = False
                 i += 1
+
+            # If no months are set, we can assume the critter is year-round
             if all_months:
                 start_date = 'Jan'
                 end_date = 'Dec'
+            # if only one is set, we can assume that it's either Jan or Dec, since the month columns are linear
             if start_date == '':
                 start_date = 'Jan'
             if end_date == '':
