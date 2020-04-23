@@ -61,13 +61,20 @@ with open(input_name + '.csv') as csvfile:
         if index != 0:
             new_json += '{ "'
             for i, c in enumerate(row):
-                new_json += new_csv[0][i]
-                new_json += '": "'
-                new_json += c
-                if (i + 1) < len(row):
-                    new_json += '", "'
-                else:
-                    new_json += '"'
+                if type(c) is str:
+                    new_json += new_csv[0][i]
+                    if str(c).isdigit():
+                        new_json += '": '
+                        new_json += c
+                        if (i + 1) < len(row):
+                            new_json += ', "'
+                    else:
+                        new_json += '": "'
+                        new_json += c
+                        if (i + 1) < len(row):
+                            new_json += '", "'
+                        else:
+                            new_json += '"'
             new_json += '}'
             if (index + 1) < len(new_csv):
                 new_json += ', '
@@ -76,7 +83,6 @@ with open(input_name + '.csv') as csvfile:
 
     # move to json to dump (is this necessary?)
     data = json.loads(new_json)
-
 
     # write files based on input file name
     with open(export_name + '.json', 'w', encoding='utf-8') as json_write:

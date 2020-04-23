@@ -1,7 +1,7 @@
 [
     {
         "Name": "Common butterfly",
-        "Price": "160",
+        "Price": 160,
         "Location": "Flying",
         "Time": "4 AM - 7 PM",
         "Jan": "?",
@@ -21,7 +21,7 @@
     },
     {
         "Name": "Yellow butterfly",
-        "Price": "160",
+        "Price": 160,
         "Location": "Flying",
         "Time": "4 AM - 7 PM",
         "Jan": "-",
@@ -41,7 +41,7 @@
     },
     {
         "Name": "Tiger butterfly",
-        "Price": "240",
+        "Price": 240,
         "Location": "Flying",
         "Time": "4 AM - 7 PM",
         "Jan": "-",
@@ -61,7 +61,7 @@
     },
     {
         "Name": "Peacock butterfly",
-        "Price": "2500",
+        "Price": 2500,
         "Location": "Flying by Hybrid Flowers",
         "Time": "4 AM - 7 PM",
         "Jan": "-",
@@ -81,7 +81,7 @@
     },
     {
         "Name": "Common bluebottle",
-        "Price": "300",
+        "Price": 300,
         "Location": "Flying",
         "Time": "4 AM - 7 PM",
         "Jan": "-",
@@ -101,7 +101,7 @@
     },
     {
         "Name": "Paper kite butterfly",
-        "Price": "1000",
+        "Price": 1000,
         "Location": "Flying",
         "Time": "8 AM - 7 PM",
         "Jan": "?",
@@ -121,7 +121,7 @@
     },
     {
         "Name": "Great purple emperor",
-        "Price": "3000",
+        "Price": 3000,
         "Location": "Flying",
         "Time": "4 AM - 7 PM",
         "Jan": "-",
@@ -141,7 +141,7 @@
     },
     {
         "Name": "Monarch butterfly",
-        "Price": "140",
+        "Price": 140,
         "Location": "Flying",
         "Time": "4 AM - 5 PM",
         "Jan": "-",
@@ -161,7 +161,7 @@
     },
     {
         "Name": "Emperor butterfly",
-        "Price": "4000",
+        "Price": 4000,
         "Location": "Flying",
         "Time": "5 PM - 8 AM",
         "Jan": "?",
@@ -181,7 +181,7 @@
     },
     {
         "Name": "Agrias butterfly",
-        "Price": "3000",
+        "Price": 3000,
         "Location": "Flying",
         "Time": "8 AM - 5 PM",
         "Jan": "-",
@@ -201,7 +201,7 @@
     },
     {
         "Name": "Rajah Brooke's birdwing",
-        "Price": "2500",
+        "Price": 2500,
         "Location": "Flying",
         "Time": "8 AM - 5 PM",
         "Jan": "?",
@@ -221,7 +221,7 @@
     },
     {
         "Name": "Queen Alexandra's birdwing",
-        "Price": "4000",
+        "Price": 4000,
         "Location": "Flying",
         "Time": "8 AM - 4 PM",
         "Jan": "-",
@@ -241,7 +241,7 @@
     },
     {
         "Name": "Moth",
-        "Price": "130",
+        "Price": 130,
         "Location": "Flying by Light",
         "Time": "7 PM - 4 AM",
         "Jan": "?",
@@ -261,7 +261,7 @@
     },
     {
         "Name": "Atlas moth",
-        "Price": "3000",
+        "Price": 3000,
         "Location": "On Trees",
         "Time": "7 PM - 4 AM",
         "Jan": "-",
@@ -281,7 +281,7 @@
     },
     {
         "Name": "Madagascan sunset moth",
-        "Price": "2500",
+        "Price": 2500,
         "Location": "Flying",
         "Time": "8 AM - 4 PM",
         "Jan": "-",
@@ -301,7 +301,7 @@
     },
     {
         "Name": "Long locust",
-        "Price": "200",
+        "Price": 200,
         "Location": "On the Ground",
         "Time": "8 AM - 7 PM",
         "Jan": "-",
@@ -321,7 +321,7 @@
     },
     {
         "Name": "Migratory locust",
-        "Price": "600",
+        "Price": 600,
         "Location": "On the Ground",
         "Time": "8 AM - 7 PM",
         "Jan": "-",
@@ -341,7 +341,7 @@
     },
     {
         "Name": "Rice grasshopper",
-        "Price": "160",
+        "Price": 160,
         "Location": "On the Ground",
         "Time": "8 AM - 7 PM",
         "Jan": "-",
@@ -361,7 +361,7 @@
     },
     {
         "Name": "Grasshopper",
-        "Price": "160",
+        "Price": 160,
         "Location": "On the Ground",
         "Time": "8 AM - 5 PM",
         "Jan": "-",
@@ -381,7 +381,7 @@
     },
     {
         "Name": "Cricket",
-        "Price": "130",
+        "Price": 130,
         "Location": "On the Ground",
         "Time": "5 PM - 8 AM",
         "Jan": "-",
@@ -401,7 +401,7 @@
     },
     {
         "Name": "Bell cricket",
-        "Price": "430",
+        "Price": 430,
         "Location": "On the Ground",
         "Time": "5 PM - 8 AM",
         "Jan": "-",
@@ -421,7 +421,7 @@
     },
     {
         "Name": "Mantis",
-        "Price": "430",
+        "Price": 430,
         "Location": "On Flowers",
         "Time": "8 AM - 5 PM",
         "Jan": "-",
@@ -441,7 +441,7 @@
     },
     {
         "Name": "Orchid mantis",
-        "Price": "2400",
+        "Price": 2400,
         "Location": "On Flowers (White)",
         "Time": "8 AM - 5 PM",
         "Jan": "-",
@@ -461,7 +461,7 @@
     },
     {
         "Name": "Honeybee",
-        "Price": "200",
+        "Price": 200,
         "Location": "Flying",
         "Time": "8 AM - 5 PM",
         "Jan": "-",
@@ -481,7 +481,7 @@
     },
     {
         "Name": "Wasp",
-        "Price": "2500",
+        "Price": 2500,
         "Location": "Shaking Trees",
         "Time": "All day",
         "Jan": "?",
@@ -501,7 +501,7 @@
     },
     {
         "Name": "Brown cicada",
-        "Price": "250",
+        "Price": 250,
         "Location": "On Trees",
         "Time": "8 AM - 5 PM",
         "Jan": "-",
@@ -521,7 +521,7 @@
     },
     {
         "Name": "Robust cicada",
-        "Price": "300",
+        "Price": 300,
         "Location": "On Trees",
         "Time": "8 AM - 5 PM",
         "Jan": "-",
@@ -541,7 +541,7 @@
     },
     {
         "Name": "Giant cicada",
-        "Price": "500",
+        "Price": 500,
         "Location": "On Trees",
         "Time": "8 AM - 5 PM",
         "Jan": "-",
@@ -561,7 +561,7 @@
     },
     {
         "Name": "Walker cicada",
-        "Price": "400",
+        "Price": 400,
         "Location": "On Trees",
         "Time": "8 AM - 5 PM",
         "Jan": "-",
@@ -581,7 +581,7 @@
     },
     {
         "Name": "Evening cicada",
-        "Price": "550",
+        "Price": 550,
         "Location": "On Trees",
         "Time": "4 AM - 8 AM & 4 PM - 7 PM",
         "Jan": "-",
@@ -601,7 +601,7 @@
     },
     {
         "Name": "Cicada shell",
-        "Price": "10",
+        "Price": 10,
         "Location": "On Trees",
         "Time": "All day",
         "Jan": "-",
@@ -621,7 +621,7 @@
     },
     {
         "Name": "Red dragonfly",
-        "Price": "180",
+        "Price": 180,
         "Location": "Flying",
         "Time": "8 AM - 7 PM",
         "Jan": "-",
@@ -641,7 +641,7 @@
     },
     {
         "Name": "Darner dragonfly",
-        "Price": "230",
+        "Price": 230,
         "Location": "Flying",
         "Time": "8 AM - 5 PM",
         "Jan": "-",
@@ -661,7 +661,7 @@
     },
     {
         "Name": "Banded dragonfly",
-        "Price": "4500",
+        "Price": 4500,
         "Location": "Flying",
         "Time": "8 AM - 5 PM",
         "Jan": "-",
@@ -681,7 +681,7 @@
     },
     {
         "Name": "Damselfly",
-        "Price": "500",
+        "Price": 500,
         "Location": "Flying",
         "Time": "All day",
         "Jan": "?",
@@ -701,7 +701,7 @@
     },
     {
         "Name": "Firefly",
-        "Price": "300",
+        "Price": 300,
         "Location": "Flying",
         "Time": "7 PM - 4 AM",
         "Jan": "-",
@@ -721,7 +721,7 @@
     },
     {
         "Name": "Mole cricket",
-        "Price": "500",
+        "Price": 500,
         "Location": "Underground",
         "Time": "All day",
         "Jan": "?",
@@ -741,7 +741,7 @@
     },
     {
         "Name": "Pondskater",
-        "Price": "130",
+        "Price": 130,
         "Location": "On Ponds and Rivers",
         "Time": "8 AM - 7 PM",
         "Jan": "-",
@@ -761,7 +761,7 @@
     },
     {
         "Name": "Diving beetle",
-        "Price": "800",
+        "Price": 800,
         "Location": "On Ponds and Rivers",
         "Time": "8 AM - 7 PM",
         "Jan": "-",
@@ -781,7 +781,7 @@
     },
     {
         "Name": "Giant water bug",
-        "Price": "2000",
+        "Price": 2000,
         "Location": "On Ponds and Rivers",
         "Time": "7 PM - 8 AM",
         "Jan": "-",
@@ -801,7 +801,7 @@
     },
     {
         "Name": "Stinkbug",
-        "Price": "120",
+        "Price": 120,
         "Location": "On Flowers",
         "Time": "All day",
         "Jan": "-",
@@ -821,7 +821,7 @@
     },
     {
         "Name": "Man-faced stink bug",
-        "Price": "1000",
+        "Price": 1000,
         "Location": "On Flowers",
         "Time": "7 PM - 8 AM",
         "Jan": "-",
@@ -841,7 +841,7 @@
     },
     {
         "Name": "Ladybug",
-        "Price": "200",
+        "Price": 200,
         "Location": "On Flowers",
         "Time": "8 AM - 5 PM",
         "Jan": "-",
@@ -861,7 +861,7 @@
     },
     {
         "Name": "Tiger beetle",
-        "Price": "1500",
+        "Price": 1500,
         "Location": "On the Ground",
         "Time": "All day",
         "Jan": "-",
@@ -881,7 +881,7 @@
     },
     {
         "Name": "Jewel beetle",
-        "Price": "2400",
+        "Price": 2400,
         "Location": "On Tree Stumps",
         "Time": "All day",
         "Jan": "-",
@@ -901,7 +901,7 @@
     },
     {
         "Name": "Violin beetle",
-        "Price": "450",
+        "Price": 450,
         "Location": "On Tree Stumps",
         "Time": "All day",
         "Jan": "-",
@@ -921,7 +921,7 @@
     },
     {
         "Name": "Citrus long-horned beetle",
-        "Price": "350",
+        "Price": 350,
         "Location": "On Tree Stumps",
         "Time": "All day",
         "Jan": "?",
@@ -941,7 +941,7 @@
     },
     {
         "Name": "Rosalia batesi beetle",
-        "Price": "3000",
+        "Price": 3000,
         "Location": "On Tree Stumps",
         "Time": "All day",
         "Jan": "-",
@@ -961,7 +961,7 @@
     },
     {
         "Name": "Blue weevil beetle",
-        "Price": "800",
+        "Price": 800,
         "Location": "On Trees (Coconut?)",
         "Time": "All day",
         "Jan": "-",
@@ -981,7 +981,7 @@
     },
     {
         "Name": "Dung beetle",
-        "Price": "3000",
+        "Price": 3000,
         "Location": "On the Ground (rolling snowballs)",
         "Time": "All day",
         "Jan": "?",
@@ -1001,7 +1001,7 @@
     },
     {
         "Name": "Earth-boring dung beetle",
-        "Price": "300",
+        "Price": 300,
         "Location": "On the Ground",
         "Time": "All day",
         "Jan": "-",
@@ -1021,7 +1021,7 @@
     },
     {
         "Name": "Scarab beetle",
-        "Price": "10000",
+        "Price": 10000,
         "Location": "On Trees",
         "Time": "11 PM - 8 AM",
         "Jan": "-",
@@ -1041,7 +1041,7 @@
     },
     {
         "Name": "Drone beetle",
-        "Price": "200",
+        "Price": 200,
         "Location": "On Trees",
         "Time": "All day",
         "Jan": "-",
@@ -1061,7 +1061,7 @@
     },
     {
         "Name": "Goliath beetle",
-        "Price": "8000",
+        "Price": 8000,
         "Location": "On Trees (Coconut)",
         "Time": "5 PM - 8 AM",
         "Jan": "-",
@@ -1081,7 +1081,7 @@
     },
     {
         "Name": "Saw stag",
-        "Price": "2000",
+        "Price": 2000,
         "Location": "On Trees",
         "Time": "All day",
         "Jan": "-",
@@ -1101,7 +1101,7 @@
     },
     {
         "Name": "Miyama stag",
-        "Price": "1000",
+        "Price": 1000,
         "Location": "On Trees",
         "Time": "All day",
         "Jan": "-",
@@ -1121,7 +1121,7 @@
     },
     {
         "Name": "Giant stag",
-        "Price": "10000",
+        "Price": 10000,
         "Location": "On Trees",
         "Time": "11 PM - 8 AM",
         "Jan": "-",
@@ -1141,7 +1141,7 @@
     },
     {
         "Name": "Rainbow stag",
-        "Price": "6000",
+        "Price": 6000,
         "Location": "On Trees",
         "Time": "7 PM - 8 AM",
         "Jan": "-",
@@ -1161,7 +1161,7 @@
     },
     {
         "Name": "Cyclommatus stag",
-        "Price": "8000",
+        "Price": 8000,
         "Location": "On Trees (Coconut)",
         "Time": "5 PM - 8 AM",
         "Jan": "-",
@@ -1181,7 +1181,7 @@
     },
     {
         "Name": "Golden stag",
-        "Price": "12000",
+        "Price": 12000,
         "Location": "On Trees (Coconut)",
         "Time": "5 PM - 8 AM",
         "Jan": "-",
@@ -1201,7 +1201,7 @@
     },
     {
         "Name": "Giraffe stag",
-        "Price": "12000",
+        "Price": 12000,
         "Location": "On Trees (Coconut?)",
         "Time": "5 PM - 8 AM",
         "Jan": "-",
@@ -1221,7 +1221,7 @@
     },
     {
         "Name": "Horned dynastid",
-        "Price": "1350",
+        "Price": 1350,
         "Location": "On Trees",
         "Time": "5 PM - 8 AM",
         "Jan": "-",
@@ -1241,7 +1241,7 @@
     },
     {
         "Name": "Horned atlas",
-        "Price": "8000",
+        "Price": 8000,
         "Location": "On Trees (Coconut)",
         "Time": "5 PM - 8 AM",
         "Jan": "-",
@@ -1261,7 +1261,7 @@
     },
     {
         "Name": "Horned elephant",
-        "Price": "8000",
+        "Price": 8000,
         "Location": "On Trees (Coconut)",
         "Time": "5 PM - 8 AM",
         "Jan": "-",
@@ -1281,7 +1281,7 @@
     },
     {
         "Name": "Horned hercules",
-        "Price": "12000",
+        "Price": 12000,
         "Location": "On Trees (Coconut)",
         "Time": "5 PM - 8 AM",
         "Jan": "-",
@@ -1301,7 +1301,7 @@
     },
     {
         "Name": "Walking stick",
-        "Price": "600",
+        "Price": 600,
         "Location": "On Trees",
         "Time": "4 AM - 8 AM & 5 PM - 7 PM",
         "Jan": "-",
@@ -1321,7 +1321,7 @@
     },
     {
         "Name": "Walking leaf",
-        "Price": "600",
+        "Price": 600,
         "Location": "Under Trees Disguised as Leafs",
         "Time": "All day",
         "Jan": "-",
@@ -1341,7 +1341,7 @@
     },
     {
         "Name": "Bagworm",
-        "Price": "600",
+        "Price": 600,
         "Location": "Shaking Trees",
         "Time": "All day",
         "Jan": "?",
@@ -1361,7 +1361,7 @@
     },
     {
         "Name": "Ant",
-        "Price": "80",
+        "Price": 80,
         "Location": "On rotten food",
         "Time": "All day",
         "Jan": "?",
@@ -1381,7 +1381,7 @@
     },
     {
         "Name": "Hermit crab",
-        "Price": "1000",
+        "Price": 1000,
         "Location": "Beach disguised as Shells",
         "Time": "7 PM - 8 AM",
         "Jan": "?",
@@ -1401,7 +1401,7 @@
     },
     {
         "Name": "Wharf roach",
-        "Price": "200",
+        "Price": 200,
         "Location": "On Beach Rocks",
         "Time": "All day",
         "Jan": "?",
@@ -1421,7 +1421,7 @@
     },
     {
         "Name": "Fly",
-        "Price": "60",
+        "Price": 60,
         "Location": "On Trash Items",
         "Time": "All day",
         "Jan": "?",
@@ -1441,7 +1441,7 @@
     },
     {
         "Name": "Mosquito",
-        "Price": "130",
+        "Price": 130,
         "Location": "Flying",
         "Time": "5 PM - 4 AM",
         "Jan": "-",
@@ -1461,7 +1461,7 @@
     },
     {
         "Name": "Flea",
-        "Price": "70",
+        "Price": 70,
         "Location": "Villager's Heads",
         "Time": "All day",
         "Jan": "-",
@@ -1481,7 +1481,7 @@
     },
     {
         "Name": "Snail",
-        "Price": "250",
+        "Price": 250,
         "Location": "On Rocks (Rain)",
         "Time": "All day",
         "Jan": "?",
@@ -1501,7 +1501,7 @@
     },
     {
         "Name": "Pill bug",
-        "Price": "250",
+        "Price": 250,
         "Location": "Hitting Rocks",
         "Time": "11 PM - 4 PM",
         "Jan": "?",
@@ -1521,7 +1521,7 @@
     },
     {
         "Name": "Centipede",
-        "Price": "300",
+        "Price": 300,
         "Location": "Hitting Rocks",
         "Time": "4 PM - 11 PM",
         "Jan": "?",
@@ -1541,7 +1541,7 @@
     },
     {
         "Name": "Spider",
-        "Price": "600",
+        "Price": 600,
         "Location": "Shaking Trees",
         "Time": "7 PM - 8 AM",
         "Jan": "?",
@@ -1561,7 +1561,7 @@
     },
     {
         "Name": "Tarantula",
-        "Price": "8000",
+        "Price": 8000,
         "Location": "On the Ground",
         "Time": "7 PM - 4 AM",
         "Jan": "?",
@@ -1581,7 +1581,7 @@
     },
     {
         "Name": "Scorpion",
-        "Price": "8000",
+        "Price": 8000,
         "Location": "On the Ground",
         "Time": "7 PM - 4 AM",
         "Jan": "-",
